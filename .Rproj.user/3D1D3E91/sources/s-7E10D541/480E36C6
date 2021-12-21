@@ -1,19 +1,17 @@
 {
-    "id": "ABE44B4E",
-    "path": "~/HugoTemplateTest/index.Rmd",
-    "project_path": "index.Rmd",
-    "type": "r_markdown",
+    "id": "480E36C6",
+    "path": "~/HugoTemplateTest/content/english/imprint.md",
+    "project_path": "content/english/imprint.md",
+    "type": "markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1640067515305.0,
+    "created": 1640074779147.0,
     "source_on_save": false,
-    "relative_order": 1,
+    "relative_order": 11,
     "properties": {
         "source_window_id": "",
-        "Source": "Source",
-        "cursorPosition": "5,0",
-        "scrollLine": "0"
+        "Source": "Source"
     },
     "folds": "",
     "lastKnownWriteTime": 1640067509,

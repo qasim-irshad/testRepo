@@ -5,7 +5,7 @@ author = "Qasim Irshad"
 description = "Call me Qasim Irshad"
 profilePicture = "images/john-doe.jpg"
 keywords = ""
-favicon = "favicons/"
+favicon = "favicons/favicon.ico"
 # example ["css/custom.css"]
 customCss = []
 # example ["js/custom.js"]
