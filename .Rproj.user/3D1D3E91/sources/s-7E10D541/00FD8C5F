@@ -1,0 +1,26 @@
+{
+    "id": "00FD8C5F",
+    "path": "~/HugoTemplateTest/themes/anatole/layouts/partials/google-analytics-gtag-async.html",
+    "project_path": "themes/anatole/layouts/partials/google-analytics-gtag-async.html",
+    "type": "html",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1640076200526.0,
+    "source_on_save": false,
+    "relative_order": 17,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "2,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1639986200,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1639986200,
+    "read_only": false,
+    "read_only_alternatives": []
+}
