@@ -14,7 +14,8 @@ mainSections = ["post"]
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
 # Google Analytics
-googleAnalytics = "UA-215751176-1"
+googleAnalytics = "UA-215751176-1
+"
 # Form Spree Contact Form
 contactFormAction = "https://formspree.io/f/xeqnqbqk"
 # Google Fonts
